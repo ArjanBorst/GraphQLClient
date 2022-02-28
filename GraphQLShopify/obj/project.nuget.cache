@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZJIJapC4Bra5+6cObTRMLgjMCo9fz/x8P0/HkXNs5DGLR9K4nHUxvVqBpfLFgLab7mq3bFSUXgMlxPD4lR3lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArjanSuccubus\\source\\repos\\GraphQLShopify\\GraphQLShopify\\GraphQLShopify.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\graphql\\4.6.0\\graphql.4.6.0.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\graphql-parser\\7.2.0\\graphql-parser.7.2.0.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\graphql.authorization\\4.0.0\\graphql.authorization.4.0.0.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\graphql.systemtextjson\\4.6.0\\graphql.systemtextjson.4.6.0.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\ArjanSuccubus\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
